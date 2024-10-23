@@ -1,5 +1,4 @@
-```
-Bug, Troubleshooting, Github
+# Bug, Troubleshooting, Github
 ---
 
 ### 什么是 Bug？
@@ -33,7 +32,8 @@ GitHub 让程序员不仅能一起工作，还能**分享和学习**。就像在
 ---
 
 这样，你现在知道了什么是 Bug（代码中的错误）、什么是 Troubleshooting（发现和修复问题），还有什么是 GitHub（程序员合作的平台）啦！这些概念听起来也许有点技术，但其实它们就像你在生活中解决问题的方法，只是用在电脑和程序上哦！
-```
+
+---
 
 
 # #1 Bugs
