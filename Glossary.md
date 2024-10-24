@@ -542,7 +542,7 @@ Functions let you put repeated code in one place, so you don’t have to write t
 
 So, **def** is a tool for creating functions, and it helps make your code more useful and tidy!
 
-# #7Binary, Decimal, Hexadecimal
+# #7 Binary, Decimal, Hexadecimal
 *24-Oct-2024*
 **什么是二进制、十进制和十六进制？**
 
@@ -611,6 +611,59 @@ In programming, **binary**, **decimal**, and **hexadecimal** each have different
 通过了解这些数制，孩子们可以更好地理解计算机是如何工作的，以及为什么程序员要使用不同的数制来处理不同的任务。
 
 By understanding these number systems, kids can better understand how computers work and why programmers use different number systems for different tasks.
+
+
+# #8 Hex Colors
+*(24-Oct-2024)*
+
+**十六进制与颜色的关系**
+
+在**网页设计**和**图形处理**中，十六进制通常用来表示颜色。每种颜色代码由六个字符组成，比如 `#FF5733`。这些字符是**十六进制数**，其中前两个字符表示**红色**的强度，中间两个字符表示**绿色**的强度，最后两个字符表示**蓝色**的强度。
+
+每种颜色的值从 `00` 到 `FF`，表示从最弱到最强的颜色强度。比如，`#FF0000` 表示纯红色，因为红色的值是最大 (`FF`)，而绿色和蓝色的值是最小 (`00`)。这样就可以确保红色完全呈现，而没有任何其他颜色的混合。
+
+通过将红、绿、蓝三种颜色混合在一起，我们可以创造出各种颜色，这就是**RGB 颜色模型**。RGB 代表红色（Red）、绿色（Green）和蓝色（Blue）。每种颜色的强度可以从 `00` 到 `FF` 变化，这样就可以创造出超过一千六百万种颜色组合。十六进制数用来方便地表示这些颜色，因为它比二进制更简洁，比十进制更适合计算机处理。而且，十六进制的表示方式更短，也便于设计师快速理解和选择。
+
+在颜色设计中，十六进制表示法的紧凑性和直观性使得它成为图形设计、网页开发等领域的标准选择。例如，设计师可以使用在线工具或者软件中的颜色选择器，直接挑选自己想要的颜色，并立即获得相应的十六进制代码。这样可以更精确地保持颜色的一致性，而不必手动调整各种颜色的数值。
+
+**Hexadecimal and Colors**
+
+In **web design** and **graphic processing**, hexadecimal is often used to represent colors. Each color code consists of six characters, like `#FF5733`. These characters are **hexadecimal numbers**, where the first two represent the intensity of **red**, the middle two represent **green**, and the last two represent **blue**.
+
+The value for each color ranges from `00` to `FF`, representing the weakest to the strongest intensity. For example, `#FF0000` represents pure red, as the red value is at its maximum (`FF`), while the green and blue values are at their minimum (`00`). This ensures that only the red color is fully displayed without any green or blue mixed in.
+
+By mixing red, green, and blue, you can create a wide variety of colors, which is called the **RGB color model**. RGB stands for Red, Green, and Blue. Each color intensity can range from `00` to `FF`, allowing the creation of over sixteen million different color combinations. Hexadecimal is simply a convenient way to represent these colors, making it more compact than binary and easier for computers to manage than decimal. Additionally, hexadecimal representation is shorter and easier for designers to quickly understand and choose.
+
+In color design, the compactness and intuitiveness of hexadecimal representation make it a standard choice in fields like graphic design and web development. For example, designers can use online tools or color pickers in software to directly choose the colors they want and immediately get the corresponding hexadecimal code. This allows them to maintain color consistency more accurately without manually adjusting different color values.
+
+### **为什么用十六进制表示颜色？**
+
+**简单易懂**：十六进制用六个字符表示一种颜色，比用二进制表示更加**紧凑**，所以更容易阅读和使用。比如，要表示纯红色，用十六进制写作 `#FF0000`，而如果用二进制，表示会非常长且难以管理。此外，十六进制的使用始于计算机图形的早期，特别是在 1980 年代。当时图形界面开始流行，需要一种既便于计算机理解又便于设计师使用的方式来定义颜色。十六进制能够轻松映射到 RGB 模型的每个颜色通道，并且与计算机的字节结构相匹配，因此被广泛采用，一直使用到现在。
+
+十六进制的使用非常方便，因为它能与计算机内部的数据结构很自然地匹配。例如，颜色的每个通道（红、绿、蓝）用 8 位（一个字节）表示，而 `00` 到 `FF` 恰好是 8 位二进制的范围。这样，每种颜色通道都可以用两个十六进制字符来表示，简单明了。这种紧凑的表示方式极大地减少了颜色代码的长度，使其在计算机存储和处理过程中更加高效。
+
+此外，十六进制的使用不仅便于计算机存储数据，对于设计师和开发者来说，也大大简化了颜色选择和管理的过程。使用十六进制表示颜色，让颜色代码更加清晰，便于记忆和应用。例如，`#FFFFFF` 代表白色，`#000000` 代表黑色，这些代码非常简单易懂，几乎每个设计师都能直接识别。
+
+| 颜色名称 | 十六进制代码 | 含义与原理 |
+| -------- | ----------- | ---------- |
+| 白色     | #FFFFFF     | 所有颜色通道的强度都为最大，表示最亮的颜色，即白色。 |
+| 黑色     | #000000     | 所有颜色通道的强度都为最小，表示没有光的颜色，即黑色。 |
+| 红色     | #FF0000     | 红色通道最大，绿色和蓝色通道最小，因此只显示红色。 |
+| 绿色     | #00FF00     | 绿色通道最大，红色和蓝色通道最小，因此只显示绿色。 |
+| 蓝色     | #0000FF     | 蓝色通道最大，红色和绿色通道最小，因此只显示蓝色。 |
+| 黄色     | #FFFF00     | 红色和绿色通道最大，蓝色通道最小，混合后形成黄色。 |
+| 青色     | #00FFFF     | 绿色和蓝色通道最大，红色通道最小，混合后形成青色。 |
+| 品红色   | #FF00FF     | 红色和蓝色通道最大，绿色通道最小，混合后形成品红色。 |
+| 灰色     | #808080     | 红、绿、蓝三个通道的强度相等，形成中等亮度的灰色。 |
+| 浅灰色   | #D3D3D3     | 红、绿、蓝三个通道的强度相等，但值更高，形成较亮的灰色。 |
+| 深灰色   | #A9A9A9     | 红、绿、蓝三个通道的强度相等，但值较低，形成较暗的灰色。 |
+| 橙色     | #FFA500     | 红色通道最大，绿色通道中等，蓝色通道最小，混合后形成橙色。 |
+| 紫色     | #800080     | 红色和蓝色通道中等，绿色通道最小，混合后形成紫色。 |
+| 棕色     | #A52A2A     | 红色通道较高，绿色和蓝色通道较低，形成棕色。 |
+| 粉色     | #FFC0CB     | 红色通道最大，绿色和蓝色通道较低，混合后形成粉色。 |
+| 天蓝色   | #87CEEB     | 蓝色和绿色通道较高，红色通道中等，形成天蓝色。 |
+
+通过这个表格，可以更好地理解十六进制颜色代码的含义和原理。每种颜色都是通过调整红、绿、蓝三种颜色的强度来实现的。`00` 表示没有这种颜色的成分，`FF` 表示这种颜色的强度最大，而介于两者之间的数值则表示不同程度的混合效果。这样，通过十六进制代码，设计师可以精确地控制每种颜色的显示效果，使其符合设计需求。
 
 
 
