@@ -46,3 +46,34 @@ our team members are me and my dad jason
 - have fun
 - To study the course on Khanacademy of Python. 
 
+
+---
+
+### 24/Oct/2024 2nd DAY:
+
+#### what we learned today
+- Github repo changes and commit for version control
+- markdown formating and applied it to readme file
+- **Microbit:**
+  - pet hamster
+  - blow away (hard)
+- **Khan academy**
+  - introduction to CS
+  - IDE
+  - decimal, binary and hexadecimal
+  - khanmigo quiz
+ 
+### what are my feelings
+- hungry
+- confused about binary and hexadecimal
+- happy about bitty
+- achieved **four** stickers!
+- thirsty
+- need the toilet
+- HAPPY
+
+### Next actions
+- continue with Bitty
+- try out Edubit
+- Khanacademy Python
+- earn more awards!
