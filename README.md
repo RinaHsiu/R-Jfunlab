@@ -15,9 +15,9 @@ our team members are me and my dad jason
 
 
 
-## Study Journey:
+# Study Journey:
 
-### 23/Oct/2024 Kick-Off DAY:
+## 23/Oct/2024 Kick-Off DAY:
 
 - how to connect to micro:bit and toubleshooting for connections 
 - we starting the computer changing wires four times; changing computer once; changing brower from Arc to Chrome for each laptop;
@@ -49,9 +49,9 @@ our team members are me and my dad jason
 
 ---
 
-### 24/Oct/2024 2nd DAY:
+## 24/Oct/2024 2nd DAY:
 
-#### what we learned today
+### what we learned today
 - Github repo changes and commit for version control
 - markdown formating and applied it to readme file
 - **Microbit:**
