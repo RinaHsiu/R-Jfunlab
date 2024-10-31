@@ -96,4 +96,16 @@ our team members are me and my dad jason
   - integer
   - float
   - boolean
-  - string
+  - string 
+- **microbit**
+  - added halloween tune
+
+###what are my feelings
+- tired
+- happpy becuase i did my first course on khanacademy
+- i earned **four** awards
+
+###next actions
+- lesson two on khanacademy
+- more bitty
+  
