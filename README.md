@@ -77,3 +77,23 @@ our team members are me and my dad jason
 - try out Edubit
 - Khanacademy Python
 - earn more awards!
+
+## 25/Oct/2024 3rd DAY:
+
+### what we learned today
+- connect micro:bit to edu:bit
+- **Microbit**
+  - pet hamster
+  - smiley buttons
+ 
+
+## 31/oct/2024 3rd day continued (halloween!)
+
+### what we learned today
+- khanacademy python
+- ASCII
+- **four data types**
+  - integer
+  - float
+  - boolean
+  - string
