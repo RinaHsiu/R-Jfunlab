@@ -7,12 +7,17 @@ in this repository, we will start a new journey of coding and fun! there are 3 o
 3.  we will build a website for the harewood villiage to introduce this community and neighbourhood.
   
    
-the time frame will be from the 23rd of october to the 6th of january 2025 (my christmas holiday)
+the time frame for micro:bit and khanAcademy will be from the 23rd of october to the 6th of january 2025 (my christmas holiday)
+the next time frame for website of HarewoodVillage will be from Christmas to Chinese New Year.
+the thrid time frame of New Year to Easter Holiday will focus on [xxxx].
 
 our team members are me and my dad jason
 
 ## our study plan is that: 
-
+- follow the school term, like half term and holidays
+- during the school week, we will try 2-3 times per week, on Tuesday/Friday/Sunday;
+- during the Holiday, we will have as many lessons as possible.
+- we will stick to our objectives above so that we can achive the milestone on plan.
 
 
 # Study Journey:
@@ -100,12 +105,38 @@ our team members are me and my dad jason
 - **microbit**
   - added halloween tune
 
-###what are my feelings
+### what are my feelings
 - tired
 - happpy becuase i did my first course on khanacademy
 - i earned **four** awards
 
-###next actions
+### next actions
 - lesson two on khanacademy
 - more bitty
   
+## 3/nov/2024 4th day:
+
+### what we learned today
+- **khan academy**
+  - *what is a variable?*
+    - a variable is a lable to store a value in the computer's memory so that we can simplise our code and make it much more readable.
+    - a space in a computer's mind that remebers one thing
+  - *four different cases*
+    - snake_case
+    - camelCase
+    - PascalCase
+    - kebab-case
+ - **Bitty**
+   - morse chat with a pig called Sky
+
+### what are my feelings
+- hungry
+- happy and proud because I debugged alot of programs
+- loved Sky
+- Surprised by Khanmigo's wide knowledge with greetings (in a while, crocadile!)
+- I earned ***eight*** awards!
+
+### Next actions
+- after half term, we will continue the programming journey till this Christmas Holiday.
+- Every Tuesday/Friday and Sunday to have lessons.
+- 
