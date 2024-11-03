@@ -1,8 +1,8 @@
-# #11 Data Type数据类型
+## #11 Data Type数据类型
 
 以下是这些 Python 基本数据类型的解释，用 Markdown 格式书写：
 
-# Python 的基本数据类型
+## Python 的基本数据类型
 
 在 Python 中，有四种常用的基础数据类型：整数（Integer）、浮点数（Float）、字符串（String）和布尔值（Boolean）。以下是详细的解释：
 
