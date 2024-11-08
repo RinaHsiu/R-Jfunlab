@@ -247,3 +247,43 @@ print(keyword.kwlist)
 	•	Python 关键字 是 Python 编程中保留的、不能用作变量或标识符的词。
 	•	它们定义了 Python 语言的结构和行为，如控制结构、逻辑判断、函数定义等。
 	•	熟悉 Python 关键字有助于编写清晰、有效的代码。
+
+
+### #5 Different types of bytes
+
+Basics: What is MB and GB?
+
+	1.	MB (Megabyte):
+	•	A Megabyte (MB) is like a medium-sized box that can hold a good amount of data.
+	•	It’s usually big enough for things like a short song or a picture.
+	2.	GB (Gigabyte):
+	•	A Gigabyte (GB) is like a much bigger box. It can hold more than 1,000 MB boxes!
+	•	With 1 GB, you could store hundreds of songs or several hundred pictures. For example, a small movie might be around 1 GB.
+
+How Do They Work?
+
+	•	Computers have storage to keep information (like games, music, and videos), and they use MB and GB to measure how much they can store.
+	•	The more MB or GB a device has, the more data it can hold.
+
+Are There More Types?
+
+Yes! Computers use even bigger boxes when they need to store a lot more data. Here are some other sizes:
+	1.	KB (Kilobyte):
+	•	A Kilobyte (KB) is smaller than an MB. Think of it as a tiny box.
+	•	It might only hold a few words of text, like a sentence or two.
+	2.	TB (Terabyte):
+	•	A Terabyte (TB) is a giant box! It can hold 1,000 GB.
+	•	You’d use this if you wanted to store a huge collection of games, videos, or pictures.
+	3.	PB (Petabyte):
+	•	A Petabyte (PB) is like an enormous storage warehouse that holds 1,000 TB!
+	•	Companies or data centers use petabytes to store tons of information.
+
+Quick Summary
+
+	•	KB (Kilobyte) – tiny box, holds text or small data.
+	•	MB (Megabyte) – medium box, holds a picture or a short song.
+	•	GB (Gigabyte) – big box, holds many songs, pictures, or a small movie.
+	•	TB (Terabyte) – very big box, holds a huge collection of videos or games.
+	•	PB (Petabyte) – massive warehouse, used for companies that store tons of data.
+
+So, think of MB, GB, and the others as different-sized boxes that help us measure how much stuff we can fit in our devices! The bigger the box (like GB or TB), the more fun things we can store.
