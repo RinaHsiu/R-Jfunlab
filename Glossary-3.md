@@ -249,7 +249,7 @@ print(keyword.kwlist)
 	•	熟悉 Python 关键字有助于编写清晰、有效的代码。
 
 
-### #5 Different types of bytes
+### #24 Different types of bytes
 
 Basics: What is MB and GB?
 
@@ -287,3 +287,62 @@ Quick Summary
 	•	PB (Petabyte) – massive warehouse, used for companies that store tons of data.
 
 So, think of MB, GB, and the others as different-sized boxes that help us measure how much stuff we can fit in our devices! The bigger the box (like GB or TB), the more fun things we can store.
+
+--- 
+## #25 Inside a PC
+
+Inside a desktop PC, there are several important components that work together to make the computer run. Here’s a look at the main parts and what they do:
+
+1. Motherboard
+
+	•	Description: This is like the “central hub” of the computer. All other components connect to the motherboard, allowing them to communicate.
+	•	Function: It holds the CPU, RAM, and other key components and connects everything with circuits (like roads) so data can travel between them.
+
+2. CPU (Central Processing Unit)
+
+	•	Description: Often called the “brain” of the computer.
+	•	Function: The CPU processes instructions and performs calculations to run programs. It handles everything from opening a file to running games.
+
+3. RAM (Random Access Memory)
+
+	•	Description: This is your computer’s short-term memory.
+	•	Function: RAM temporarily holds data and instructions that the CPU needs while the computer is on. For example, when you’re playing a game, it keeps important game data in RAM so the CPU can access it quickly. When you turn off your computer, everything in RAM is erased.
+
+4. Storage Drive (HDD or SSD)
+
+	•	HDD (Hard Disk Drive): Uses spinning disks to store data. It’s slower but can hold a lot of data.
+	•	SSD (Solid State Drive): Uses memory chips to store data. It’s faster and more reliable, but usually more expensive than HDDs.
+	•	Function: This is where all your files, programs, and operating system are stored. Unlike RAM, the data here isn’t erased when you turn off your computer.
+
+5. Power Supply Unit (PSU)
+
+	•	Description: This is the “power source” for the computer.
+	•	Function: The PSU takes power from the outlet and converts it to the type and amount of power needed by each component in the computer. It ensures each part gets enough energy to run.
+
+6. GPU (Graphics Processing Unit)
+
+	•	Description: Also called a graphics card, this handles the display of images and video.
+	•	Function: The GPU is designed to process complex graphics calculations quickly, making it essential for gaming, video editing, and other visually intensive tasks.
+
+7. Cooling System (Fans, Heatsinks, and Sometimes Liquid Cooling)
+
+	•	Description: Computers generate heat, especially the CPU and GPU.
+	•	Function: The cooling system keeps the computer’s components from overheating. Fans and heatsinks pull heat away, and some high-performance computers use liquid cooling for even better temperature control.
+
+8. Case
+
+	•	Description: The case is the physical box that holds and protects all the internal components.
+	•	Function: It keeps everything in place and provides space for airflow, which helps with cooling.
+
+Summary of Main Parts
+
+	•	Motherboard: Central hub connecting all parts.
+	•	CPU: Brain of the computer, handles processing.
+	•	RAM: Short-term memory for active tasks.
+	•	Storage Drive: Long-term storage for files and programs.
+	•	Power Supply (PSU): Provides power to all components.
+	•	GPU: Handles graphics and video processing.
+	•	Cooling System: Keeps parts from overheating.
+	•	Case: Protects and organizes everything.
+
+These parts all work together, allowing you to run applications, store files, and use your computer smoothly!
