@@ -249,7 +249,7 @@ print(keyword.kwlist)
 	•	熟悉 Python 关键字有助于编写清晰、有效的代码。
 
 
-### #24 Different types of bytes
+## #24 Different types of bytes
 
 Basics: What is MB and GB?
 
@@ -346,3 +346,59 @@ Summary of Main Parts
 	•	Case: Protects and organizes everything.
 
 These parts all work together, allowing you to run applications, store files, and use your computer smoothly!
+
+--- 
+## #26 APP/Application
+
+An application (or “app”) is a program you use on your computer, tablet, or phone to do specific tasks. For example, there are apps for games, drawing, sending messages, or even doing homework.
+
+What is an Application?
+
+	•	Think of an application like a tool or a toy. Just like a hammer is a tool to build things, and a toy is something you play with, an application is a program you use to do things on your device.
+	•	For example:
+	•	Game app: lets you play a game.
+	•	Drawing app: lets you create pictures.
+	•	Calculator app: helps you solve math problems.
+
+Where Does the Term “Application” Come From?
+
+The word application originally means “to apply” something, like when you apply paint to a wall or when you apply an idea in real life.
+
+In computers, “application” means applying the computer’s power to do something useful for you, like writing, drawing, or playing games. That’s why we call these programs “applications” – because we’re “applying” the computer to do different tasks.
+
+So, in Summary:
+
+	•	An application is a program that lets you do a specific task on your device.
+	•	The word “application” means “using something for a purpose,” and in computers, it means using the device’s power to help you with a task, like messaging, gaming, or drawing.
+
+---
+## #27 Back-end/Front-End
+In the world of computers and websites, front-end and back-end are like two different parts of a team that work together to make a website or app function.
+
+What is the Front-End?
+
+	•	The front-end is the part of a website or app that you can see and interact with. It’s the “user-facing” side – like the graphics, buttons, text, and images you see on the screen.
+	•	Think of it as the stage at a play: you see the actors, props, and scenery. Everything the audience (you) sees is like the front-end of a website.
+	•	Examples:
+	•	When you click a button, type in a search bar, or scroll through images, you’re using the front-end of a website.
+	•	Front-end programming languages include HTML, CSS, and JavaScript – these help design and style what you see on a webpage.
+
+What is the Back-End?
+
+	•	The back-end is like the behind-the-scenes part of a website or app. It’s everything you don’t see but is crucial for making the website work, like servers, databases, and code that manage data.
+	•	Think of it as backstage at a play: it includes the crew, directors, and scripts that make the performance happen. They’re not seen, but they make sure everything on stage runs smoothly.
+	•	Examples:
+	•	When you log into your account on a website, the back-end checks your username and password.
+	•	Back-end programming languages include Python, Ruby, Java, and SQL – they help manage data, run logic, and communicate with the front-end.
+
+Summary
+
+	•	Front-End: The visible part you interact with – like the stage of a play. It’s designed with HTML, CSS, and JavaScript.
+	•	Back-End: The invisible part that powers the website – like the crew backstage making sure everything runs smoothly. It’s created with languages like Python and Java.
+
+Together, the front-end and back-end make a website work, just like the actors and crew work together to put on a successful play!
+
+---
+## #28 
+
+
