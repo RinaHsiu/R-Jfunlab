@@ -149,4 +149,46 @@ our team members are me and my dad jason
 ### Next actions
 - after half term, we will continue the programming journey till this Christmas Holiday.
 - Every Tuesday/Friday and Sunday to have lessons.
-- 
+
+***
+
+## 8/Nov/2024 5th Day:
+
+### what we learned today?
+- **different type of bytes**
+  > KB: kilobyte is a tiny box used to store text or small data
+  > MB: megabyte is a medium box use to store picture or short song
+  > GB: gigabyte is a big box used to store a small movie ar pictures
+  > TB: terabyte is a very large box used to store huge collections of games.
+  > PB: perabyte is a masive warehouse used by companys
+- **what is inside a computer**
+  > CPU - central processing unit
+  > SSD - short storage disc
+  > RAM - random memory
+  > motherboard - a hub to connect all objects inside a computer
+  > FAN - to keep the inside cool so that it doesing **EXPLODE**!
+  > GPU - graph processing unit
+  > case - to protect all the insides
+  > Storage drive - to store data permanantly
+- **khanacademy**
+  > tracing variables
+  > input()
+  > app/application
+- **bitty**
+  > rock paper siccers shoot!
+  > if
+  > elif
+  > else
+
+### what are my feelings
+- sleepy
+- sad at first because i only got **1** award/sticker
+- happy because i got 3 more at the end of the lesson because dad felt bad for me.
+- confused
+- happy because the new gaming console arived and it's shaped like a cat!
+
+### next actions
+- what's python and whats the diference of javascript
+- more khanacademy
+- more bitty
+- get the cat game console working for next time!!!!!!!!!!!
