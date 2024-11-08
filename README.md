@@ -163,13 +163,14 @@ our team members are me and my dad jason
   > PB: perabyte is a masive warehouse used by companys
 - **what is inside a computer**
   > CPU - central processing unit
-  > SSD - short storage disc
-  > RAM - random memory
-  > motherboard - a hub to connect all objects inside a computer
+  > SSD - Storate Drive, Solid State Drive(SSD), Hard Disk Drive(HDD), to store data permanantly
+  > RAM - Random Access Memory
+  > Motherboard - a hub to connect all objects inside a computer
   > FAN - to keep the inside cool so that it doesing **EXPLODE**!
-  > GPU - graph processing unit
-  > case - to protect all the insides
-  > Storage drive - to store data permanantly
+  > GPU - graphics processing unit
+  > Case - to protect all the insides
+  > PSU -Power Supply Unit: the Power source for the computer
+  > Peripheral Device: Keyboard, Mouse, Moniter, etc.
 - **khanacademy**
   > tracing variables
   > input()
