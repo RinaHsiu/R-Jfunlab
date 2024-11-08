@@ -83,6 +83,10 @@ our team members are me and my dad jason
 - Khanacademy Python
 - earn more awards!
 
+
+---
+
+
 ## 25/Oct/2024 3rd DAY:
 
 ### what we learned today
@@ -90,6 +94,9 @@ our team members are me and my dad jason
 - **Microbit**
   - pet hamster
   - smiley buttons
+
+
+ ***
  
 
 ## 31/oct/2024 3rd day continued (halloween!)
@@ -113,6 +120,9 @@ our team members are me and my dad jason
 ### next actions
 - lesson two on khanacademy
 - more bitty
+
+
+***
   
 ## 3/nov/2024 4th day:
 
