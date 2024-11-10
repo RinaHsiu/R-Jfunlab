@@ -156,30 +156,30 @@ our team members are me and my dad jason
 
 ### what we learned today?
 - **different type of bytes**
-  > KB: kilobyte is a tiny box used to store text or small data
-  > MB: megabyte is a medium box use to store picture or short song
-  > GB: gigabyte is a big box used to store a small movie ar pictures
-  > TB: terabyte is a very large box used to store huge collections of games.
-  > PB: perabyte is a masive warehouse used by companys
+  - KB: kilobyte is a tiny box used to store text or small data
+  - MB: megabyte is a medium box use to store picture or short song
+  - GB: gigabyte is a big box used to store a small movie ar pictures
+  - TB: terabyte is a very large box used to store huge collections of games.
+  - PB: perabyte is a masive warehouse used by companys
 - **what is inside a computer**
-  > CPU - central processing unit
-  > SSD - Storate Drive, Solid State Drive(SSD), Hard Disk Drive(HDD), to store data permanantly
-  > RAM - Random Access Memory
-  > Motherboard - a hub to connect all objects inside a computer
-  > FAN - to keep the inside cool so that it doesing **EXPLODE**!
-  > GPU - graphics processing unit
-  > Case - to protect all the insides
-  > PSU -Power Supply Unit: the Power source for the computer
-  > Peripheral Device: Keyboard, Mouse, Moniter, etc.
+  - CPU - central processing unit
+  - SSD - Storate Drive, Solid State Drive(SSD), Hard Disk Drive(HDD), to store data permanantly
+  - RAM - Random Access Memory
+  - Motherboard - a hub to connect all objects inside a computer
+  - FAN - to keep the inside cool so that it doesing **EXPLODE**!
+  - GPU - graphics processing unit
+  - Case - to protect all the insides
+  - PSU -Power Supply Unit: the Power source for the computer
+  - Peripheral Device: Keyboard, Mouse, Moniter, etc.
 - **khanacademy**
-  > tracing variables
-  > input()
-  > app/application
+  - tracing variables
+  - input()
+  - app/application
 - **bitty**
-  > rock paper siccers shoot!
-  > if
-  > elif
-  > else
+  - rock paper siccers shoot!
+  - if
+  - elif
+  - else
 
 ### what are my feelings
 - sleepy
