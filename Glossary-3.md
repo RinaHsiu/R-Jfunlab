@@ -399,6 +399,62 @@ Summary
 Together, the front-end and back-end make a website work, just like the actors and crew work together to put on a successful play!
 
 ---
-## #28 
+## #28 JavaScript vs Python
+
+从前端和后端的角度来看，JavaScript 和 Python 的用途和特点有很大差异。下面是它们在前端和后端的不同之处：
+
+前端
+
+	•	JavaScript
+JavaScript 是前端开发的核心语言，用于让网页更加动态和互动。几乎所有现代网页都依赖 JavaScript 来处理用户的操作，比如点击按钮、弹出窗口、显示动画等。它能让网页立即响应用户的输入，不需要重新加载整个页面。像 React、Vue 和 Angular 这样的框架让 JavaScript 开发更便捷，适合制作现代化、复杂的用户界面。
+	•	Python
+Python 在前端的使用非常少。虽然它的语法简单，但不适合直接在网页浏览器上运行，因为浏览器不支持直接运行 Python。Python 更适合在后台处理数据，再通过 API 传送到前端展示。实际上，Python 的前端应用主要限于数据可视化和一些简单的网页制作，不像 JavaScript 那样能实现全面的网页互动。
+
+后端
+
+	•	JavaScript (Node.js)
+JavaScript 通过 Node.js 也可以在后端运行。Node.js 让 JavaScript 可以处理服务器上的任务，比如接收用户请求、读取数据库、处理数据等。Node.js 非常适合处理大量请求，比如聊天应用或实时数据更新的情况，因为它的异步处理可以同时进行多个任务，而不会被卡住。Express.js 是常用的 Node.js 框架，帮助快速构建服务器和 API。
+	•	Python
+Python 在后端非常受欢迎，适合开发服务器、处理数据、分析信息等。Python 的框架（如 Django 和 Flask）让它能够轻松创建强大的后端服务。Python 的语法简单，适合构建需要复杂逻辑的应用，比如数据分析平台或机器学习系统。它处理高计算量的任务更有效，适合需要科学计算的应用。Python 在 AI 和数据科学领域的库（如 TensorFlow、Pandas）让它在后端计算上具备强大优势。
+
+总结
+
+	•	前端：JavaScript 是前端的主力，负责网页的动态和互动。Python 几乎不用于前端。
+	•	后端：JavaScript 和 Python 都能用于后端，但适合不同的应用场景。JavaScript 适合高并发、实时性强的应用，而 Python 则适合数据处理、分析和 AI 相关的应用。
+
+选择 JavaScript 还是 Python，取决于你在前端还是后端工作，以及你需要的具体功能。
+
+
+Micro:Bit 支持 JavaScript 和 Python 的原因在于这两种语言的特点和它们在教育中的优势。Micro:Bit 是一个面向教育的微型开发板，专为学生和编程初学者设计。支持这两种语言有以下几个主要原因：
+
+1. JavaScript 和 Python 易于学习且流行
+
+	•	JavaScript 和 Python 都是语法简单、学习曲线较平缓的编程语言，非常适合初学者学习编程基础。
+	•	这两种语言都是广泛应用的主流语言，掌握它们对学生未来学习更复杂的编程和技术非常有帮助。让学生在 Micro:Bit 上接触 JavaScript 和 Python，可以让他们学到真实世界中使用的编程知识。
+
+2. 两种语言有不同的优势
+
+	•	JavaScript：适合网页和前端开发。因为许多学生未来可能会接触网页开发，JavaScript 是网页编程的核心语言之一，Micro:Bit 支持 JavaScript 让学生更容易过渡到网页开发。
+	•	Python：适合数据处理、科学计算和嵌入式开发，语法简单、结构清晰，非常适合用来编写小型的嵌入式程序。Python 也广泛应用于数据科学和人工智能领域，Micro:Bit 支持 Python 可以激发学生对这些领域的兴趣。
+
+3. 扩大教育覆盖面和选择性
+
+	•	许多学生和老师可能对某一种语言更熟悉或更偏好。Micro:Bit 提供了这两种语言支持，能够让更多人根据自己的需求和兴趣选择合适的编程语言。
+	•	通过支持 JavaScript 和 Python，Micro:Bit 平台能够覆盖不同的教育需求和编程课程。比如，某些学校的课程可能更偏向网页开发，这时可以用 JavaScript，而其他课程可能更注重数据或简单嵌入式编程，则可以选择 Python。
+
+4. 推动创造性项目开发
+
+	•	JavaScript 和 Python 都有丰富的资源和库。支持这两种语言可以让学生在 Micro:Bit 上编写更复杂、更有趣的应用，借助已有的 JavaScript 和 Python 社区资源，学生可以开发出更丰富的项目。
+
+5. 跨平台应用的能力
+
+	•	JavaScript 和 Python 的跨平台性使得学生编写的代码更容易移植到其他系统上，比如从 Micro:Bit 转移到桌面应用或其他硬件平台。Python 的代码可以直接用于其他嵌入式系统，而 JavaScript 的技能也有助于学习 Web 技术。
+
+总结
+
+Micro:Bit 支持 JavaScript 和 Python 是为了让编程学习变得更简单和灵活，并且让学生有机会接触到不同的编程语言、为未来的学习打下基础。这种多语言支持能够适应不同教育需求，帮助学生更好地理解编程的概念并激发他们的创造力。
+
+
+## #29 
 
 
