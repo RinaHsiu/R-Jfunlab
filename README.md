@@ -193,3 +193,43 @@ our team members are me and my dad jason
 - more khanacademy
 - more bitty
 - get the cat game console working for next time!!!!!!!!!!!
+
+---
+
+## 10/Nov/2024 6th Day:
+
+### what we learned today?
+- the difference between JavaScrpt and Python
+  -JS for the frontend where has user inferface and lovely
+  -PY for the backend where has logics.
+
+- Khan Academy
+ - **+** = addition
+ - **-** = subtraction
+ - **\*** = multiplication
+ - **\*\*** = exponentiation
+ - **/** = float division
+ - **//** = floor division
+ - **%** = modulus
+
+### what are my feelings
+- excited to see if the multiplication bit will work
+- a little bit sad and dissapionted about the gaming consel
+- happy because i've got **water**
+- tired and very hungry
+   
+### next actions
+- gameing consel
+- Bitty
+- khanacademy
+
+---
+
+## ? /Nov/2024 7th Day:
+
+### what we learned today?
+
+
+### what are my feelings
+
+### next actions
