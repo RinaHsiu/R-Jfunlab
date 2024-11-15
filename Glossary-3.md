@@ -289,7 +289,7 @@ Quick Summary
 So, think of MB, GB, and the others as different-sized boxes that help us measure how much stuff we can fit in our devices! The bigger the box (like GB or TB), the more fun things we can store.
 
 --- 
-## #25 Inside a PC
+# #25 Inside a PC
 
 Inside a desktop PC, there are several important components that work together to make the computer run. Here’s a look at the main parts and what they do:
 
@@ -348,7 +348,7 @@ Summary of Main Parts
 These parts all work together, allowing you to run applications, store files, and use your computer smoothly!
 
 --- 
-## #26 APP/Application
+# #26 APP/Application
 
 An application (or “app”) is a program you use on your computer, tablet, or phone to do specific tasks. For example, there are apps for games, drawing, sending messages, or even doing homework.
 
@@ -399,7 +399,7 @@ Summary
 Together, the front-end and back-end make a website work, just like the actors and crew work together to put on a successful play!
 
 ---
-## #28 JavaScript vs Python
+# #28 JavaScript vs Python
 
 从前端和后端的角度来看，JavaScript 和 Python 的用途和特点有很大差异。下面是它们在前端和后端的不同之处：
 
