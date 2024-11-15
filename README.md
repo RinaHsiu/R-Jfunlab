@@ -225,7 +225,49 @@ our team members are me and my dad jason
 
 ---
 
-## ? /Nov/2024 7th Day:
+## 15/Nov/2024 7th Day:
+
+### what we learned today?
+- **khanacademy**
+  - arguments are like toys you give to a magic box. the box tells you which toy is smaller. thats how arguments help in programming!
+  - **Many,many,many BIULD-IN FUNCTIONS!**
+    - min(x,y) returns the lesser of the x and y values
+    - print(x) displays the value x in the console
+    - input("x") asks for input, shows a message, gives back your words
+    - str(x) returns a string
+    - int(x) returns an integer
+    - bool(x) returns True or False
+    - abs(x) returns absolute values
+    - round(x) returns the nearest integer. if 0.5 then round to they nearest even whole number
+    - round(x,y) yth desimal place will be remained
+    - max(x,y) returnes the greater of them
+    - len(x) returns the number of characters
+  - PEMDAS
+    - Parentheses
+    - Exponents
+    - Multiplication, Division
+    - Addition, Subtraction
+- Catroller
+  - my_first_game
+  - bunny_bee_clover
+
+### what are my feelings
+- super happy about catroller
+- excited to do more catroller games!!!!!
+- got ***9*** awards!!!!!!
+- thristy
+- tired
+- very, very, very, very, very, very happyyyyyyyyyy!!!!!!!!(very**6)
+
+  
+### next actions
+- more catroller definitely
+- finish unit one on khanacademy!
+- new thing that dad wants to show me.
+  
+---
+
+## ? /Nov/2024 8th Day:
 
 ### what we learned today?
 
