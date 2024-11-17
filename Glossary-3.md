@@ -530,7 +530,7 @@ Documents for programming languages are essential guides and references that exp
 - **Purpose**: Support learning, troubleshooting, and efficient coding.
 - **Examples**: Python Docs, MDN for JavaScript, React's official docs, and more.
 
-# #30 Documents
+# #30 Console
 
  What is a Console?
 
