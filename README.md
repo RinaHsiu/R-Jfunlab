@@ -267,7 +267,35 @@ our team members are me and my dad jason
   
 ---
 
-## ? /Nov/2024 8th Day:
+## 17/Nov/2024 8th Day:
+
+### what we learned today?
+- **catroller**
+  - hungry_frog
+    - if
+    - 2 elifs
+    - else
+- **khanacademey**
+  - HTML
+    - it stand for HyperText Markup Language
+    - it uses tags to tell browser how to display text, images, links, and more
+  - CSS
+    - it stands for Cascading Style Sheets
+
+### what are my feelings
+- very,very,very happy because i **finished** ***unit 1*** in khanacademy coding!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- happy because i got **6** awards!!!!!
+- sad because i have no time to watch telly
+- sleepy
+- tired
+
+### next actions
+- start unit 2
+- more catroller
+  
+---
+
+## ? /Nov/2024 9th Day:
 
 ### what we learned today?
 
