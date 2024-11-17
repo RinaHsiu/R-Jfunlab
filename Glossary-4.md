@@ -89,3 +89,33 @@ Here are some built-in functions in Python and what they do:
 - They make programming easier and more fun!
 
 So, the next time you use a built-in function, imagine you're grabbing a cool tool from your magical Python toolbox!
+
+# 32 Arguments
+# What Are Arguments?
+
+In programming, **arguments** are pieces of information that you give to a function so it can perform its task. Think of arguments like the ingredients you give to a recipe. The recipe (function) needs these ingredients (arguments) to make the final dish (result).
+
+---
+
+## Example: Baking a Cake
+Imagine you have a recipe for baking a cake. The recipe might need:
+- Flour
+- Sugar
+- Eggs
+
+These ingredients are like arguments. Without them, the recipe wouldn’t work.
+
+Similarly, in programming, a function might need arguments to complete its job.
+
+---
+
+## How Do Arguments Work in Python?
+When you call a function, you pass the arguments inside the parentheses `()`. The function uses these arguments to perform a task.
+
+### Example 1: A Simple Function with Arguments
+```python
+def greet(name):
+    print("Hello, " + name)
+
+greet("Alice")  # Output: Hello, Alice
+greet("Bob")    # Output: Hello, Bob
