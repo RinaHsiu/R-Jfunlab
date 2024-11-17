@@ -1,4 +1,4 @@
-#1 What Are Built-in Functions?
+# 1 What Are Built-in Functions?
 
 **Built-in functions** are special tools that come with Python (or other programming languages) and are ready to use without any extra setup. Think of them like the default tools in a toolbox—already there, easy to grab, and super handy for solving problems.
 
