@@ -295,7 +295,75 @@ our team members are me and my dad jason
   
 ---
 
+## 22/Nov/2024 9th Day:
+
+### what we learned today?
+- **khanacademy**
+  - algorithm
+    - a repeatable process to accomplish a task
+  - algorithm operaters
+    - ==    equality
+    - !=    inequality
+    - <    lesser
+    - <=    lesser or equals
+    - >    greater
+    - >=    greater or equals
+  - if () :
+  -   ()
+  - three elements
+    - starting of the statment
+    - comma at the end of the first line
+    - indent starting from the second line
+- **catroller**
+  - the joy of popping bubbles(inside out II)
+
+
+### what are my feelings
+- happy aecause i started unit 2 in khanacademy coding of python
+- happy because i got **5** sticker/awards
+- happy because i got tp show my parents about my progects on catroller
+- tired
+- snotty
+- poorly
+  
+### next actions
+- more catroller
+- unit 2 khanacademy
+- change the sprite more effeciantly on joy of popping bubbles.
+
+  ---
+
 ## ? /Nov/2024 9th Day:
+
+### what we learned today?
+
+
+### what are my feelings
+
+### next actions## 
+
+
+? /Nov/2024 9th Day:
+
+### what we learned today?
+
+
+### what are my feelings
+
+### next actions## ? 
+
+
+/Nov/2024 9th Day:
+
+### what we learned today?
+
+
+### what are my feelings
+
+### next actions## ?
+
+
+/Nov/2024 9th Day:
 
 ### what we learned today?
 
