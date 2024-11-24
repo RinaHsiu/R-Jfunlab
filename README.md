@@ -333,15 +333,29 @@ our team members are me and my dad jason
 
   ---
 
-## ? /Nov/2024 9th Day:
+## 24/Nov/2024 10th Day:
 
 ### what we learned today?
+- **catroller**
+  - how to make character changes more efficiante on joy of popping bubbles by using the if, elif, and else functions
+  - started zoo keeper
+- **khanacademy**
+  - when using an if statement, there can't be the = symbol, there can only be the == symbol
+  - if it is not a variable, it has to be a string
 
 
 ### what are my feelings
+- happy
+- confused about why i can't get to fish to move differently on zoo keeper
+- annoy about zoo keeper
+- happy about khanacademy challenge
 
 ### next actions## 
-
+- get zoo keeper to work!!!!!!!!!!!
+- more zoo keeper
+- khanacademy unit 2 session 2
+  
+---
 
 ? /Nov/2024 9th Day:
 
