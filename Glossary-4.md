@@ -157,7 +157,6 @@ Efficiency（效率）、Correctness（正确性） 和 Readability（可读性�
 	•	Readability 是代码审查（Code Review）和团队协作的关键目标，提倡“可读代码更容易维护”。
 
 ## 4. 社区和行业的实践
-
 	•	开源项目：开源社区中，开发者需要编写清晰的代码，方便其他人阅读和贡献。
 	•	企业内部规范：谷歌、微软、亚马逊等科技公司通过编码规范和文档，将这些原则传递给开发者。
 	•	敏捷开发与 DevOps：这些方法论进一步推动了正确性、可读性和效率的平衡。
@@ -233,11 +232,13 @@ Why Are Algorithms Important?
 
 （为什么算法很重要？）
 
-	1.	Step-by-step solutions: Algorithms break problems into smaller, manageable steps.
+1.	Step-by-step solutions: Algorithms break problems into smaller, manageable steps.
 分步解决问题：算法将问题分解成更小的步骤，易于处理。
-	2.	Efficiency: A good algorithm solves problems faster and uses less memory.
+
+2.	Efficiency: A good algorithm solves problems faster and uses less memory.
 高效性：好的算法能够更快地解决问题，并且占用更少的内存。
-	3.	Everyday use: Algorithms power everything from search engines to video recommendations.
+
+3.	Everyday use: Algorithms power everything from search engines to video recommendations.
 日常应用：算法驱动了从搜索引擎到视频推荐的方方面面。
 
 Fun Fact （趣味知识）
@@ -276,16 +277,18 @@ print(x)  # 输出: 10
 	•	如果 if 条件为真，x 被定义并可以在 if 外部使用。
 	•	如果 if 条件为假，x 不会被定义，尝试访问 x 会报错。
 
-2. 变量未被定义的情况
+## 2. 变量未被定义的情况
 
 如果 if 条件为假，变量将不会被定义，这可能会导致 NameError 错误。
 
 示例：
-
+```python
 if False:
     y = 20  # 此代码块未执行，y 不会被定义
-# print(y)  # 报错: NameError: name 'y' is not defined
 
+print(y)  # 报错: NameError: name 'y' is not defined
+
+```
 解决方法：
 
 为了避免这种情况，可以在 if 语句外先初始化变量，这样即使条件未触发，变量也有一个默认值。
@@ -295,7 +298,8 @@ if False:
     y = 20  # 如果条件为真，则重新赋值
 print(y)  # 输出: None
 
-3. 变量的定义位置和可见性
+
+## 3. 变量的定义位置和可见性
 
 示例 1：嵌套的 if 语句
 
@@ -319,7 +323,7 @@ else:
     result = 30
 print(result)  # result 在任意情况下都有定义
 
-4. if 语句内的变量在函数中的使用
+## 4. if 语句内的变量在函数中的使用
 
 在函数中，if 语句内定义的变量属于函数的局部作用域。即使在 if 块中被定义，它仍然可以在整个函数范围内使用，但前提是变量被定义过。
 
@@ -339,7 +343,7 @@ print(check_value(-3))  # 输出: Non-positive
 
 如果变量可能在某些条件下未定义，则必须提前初始化，避免函数执行报错。
 
-5. 变量定义的最佳实践
+## 5. 变量定义的最佳实践
 
 	1.	始终确保变量被定义：
 	•	在进入 if 语句前初始化变量，以避免 NameError。
