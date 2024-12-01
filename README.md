@@ -357,17 +357,72 @@ our team members are me and my dad jason
   
 ---
 
-? /Nov/2024 9th Day:
+## 1/Dec/2024 11th Day:
 
 ### what we learned today?
+- **catroller**
+  - zoo keeper
+    - lion
+    - penguins
+- **khanacademy**
+  - compound boolean expresions
 
+    - not
+     asks : is x not true?
+      - x = True
+      - print(x)
+      - print (not x)
+
+      prints:
+      - True
+      - False
+     
+     - not x = False
+     - not y = True
+
+    - and
+      asks: are all of x and y True?
+      - x = True
+      - y = False
+      - print (x and y)
+     
+      prints:
+      - False
+     
+    - x = True, y = True, x and y = True
+    - x = True, y = False, x and y = False
+    - x = False, y = True, x and y = False
+    - x = False, Y = False, x and y = False
+     
+    - or
+      asks: are any of x or y True?
+      - x = True
+      - y = False
+      - print (x or y)
+     
+      prints:
+      - True
+     
+    - True or True => True
+    - True or False => True
+    - False or True => True
+    - False or Flase => False
 
 ### what are my feelings
+- happy because it's the first of December
+- sad beacuse of time
+- a bit confused on the boolean expressions
+- sleepy
+- happy because i got **6** awards
+  
+### next actions
+- change zoo keeper aquarium fish
+- finish zoo keeper
+- khanacademy
 
-### next actions## ? 
+---
 
-
-/Nov/2024 9th Day:
+## ? /Nov/2024 9th Day:
 
 ### what we learned today?
 
