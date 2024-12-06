@@ -422,17 +422,30 @@ our team members are me and my dad jason
 
 ---
 
-## ? /Nov/2024 9th Day:
+## 6/Dec/2024 12th Day:
 
 ### what we learned today?
-
+- **Catroller**
+  - added more characters on Aquiarium
+  - fed the pandas in the Zoo
+- **Khanacademy**
+- how to evaluate compound boolean expressions
+- solved stupid Amy's program for her
+- why we can't divide 10 by 0
 
 ### what are my feelings
+- Annoyed by Amy making ME do all her work
+- excited because we can watcha movie tonight
+- happy because dad got new stickers
+- a little bit confused by boolean expressions
 
-### next actions## ?
+### next actions
+- finish zoo keeper
+- get new stickers
+- start something new on catroller
+- khanacademy
 
-
-/Nov/2024 9th Day:
+## ?/Nov/2024 9th Day:
 
 ### what we learned today?
 
