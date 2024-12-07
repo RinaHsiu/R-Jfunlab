@@ -445,7 +445,38 @@ our team members are me and my dad jason
 - start something new on catroller
 - khanacademy
 
-## ?/Nov/2024 9th Day:
+## 7/Dec/2024 13th Day:
+
+### what we learned today?
+- **computational thinking**
+  - there are four steps to computational thinking
+    1. Decomposition - where you break down a problem into smaller parts
+    2. Pattern Recognition - Finding similar thing within the problem
+    3. Abstract - where you identify the simerlarities and differences between similar problems
+    4. Algorithm - writing down some step by step instructions on how to solve the problem
+- **catroller**
+ - quial hatching
+ - finished zoo keeper
+ - started monkey game
+- **Khanacademy**
+  - if, elif, else
+  - there can be as many elifs as you need as long as there is an if.
+  - it doesn't always need to have and else or an elif
+  
+### what are my feelings
+- nervous for tomorrow's chess competition
+- happy because the new stickers arrived
+- happy because we might watch a movie
+- a bit confused at computational thinking
+  
+### next actions
+- do more monkey game
+- khanacademy
+
+---
+
+
+## ?/Dec/2024 9th Day:
 
 ### what we learned today?
 
