@@ -476,6 +476,37 @@ our team members are me and my dad jason
 ---
 
 
+## 20/Dec/2024 14th Day:
+
+### what we learned today?
+- **catroller**
+  - monkey game
+  - used two new toolboxes
+    - tilemaps
+    - animation
+  - a buton = z
+  - b button = x
+ 
+- **khanacademy**
+  - ^2 = squared
+  - if gravity:
+    - non zero values = true
+    - zero values = false
+  - made Erik's annoying flash cards
+
+  ### what are my feelings
+ - happy cause i earned **6** stickers
+ - a bit tired
+ - happy because i got water and tissues
+ - annoyed at Erik (why can't he make his own stupid flash cards? why do i have to make them for him? ***NO FAIR!***
+ - happy and fun because of the new divise that we have
+     
+### next actions
+- fix monkey game explodes
+- more khanacademy
+
+---
+
 ## ?/Dec/2024 9th Day:
 
 ### what we learned today?
