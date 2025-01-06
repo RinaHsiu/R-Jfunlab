@@ -507,7 +507,29 @@ our team members are me and my dad jason
 
 ---
 
-## ?/Dec/2024 9th Day:
+## 6/jan/2025 9th Day:
+
+### what we learned today?
+- **Catroller**
+  - monkey game
+    - restarted the blow away level to figure out what went wrong
+    - learned what a projectile block is
+    - dangarous dinamite
+- **khanacademy**
+  - nested indentation
+
+### what are my feelings
+- happy cause the monkey game was very very fun
+- happy cause dad got food for us
+- happy cause i got **four** stickers/awards
+- hungry
+- tired
+
+### next actions
+- try finish the monkey game
+- more khanacademy
+
+## ?/jan/2025 9th Day:
 
 ### what we learned today?
 
