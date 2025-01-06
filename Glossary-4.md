@@ -359,3 +359,51 @@ print(check_value(-3))  # 输出: Non-positive
 	•	在复杂条件中使用变量时，保持代码清晰、简洁是关键。
 
 
+# 36 what are projectile blocks?
+
+In MakeCode Arcade, a Projectile Block is a code block used to create and control objects that can move across the screen, often simulating bullets, arrows, or other projectiles in a game. It allows developers to design actions like shooting or throwing objects, adding interactivity and gameplay mechanics to their games.
+
+Key Features of Projectile Blocks:
+	1.	Creation:
+	•	You can create a projectile using the “projectile from sprite” block, which sets the initial speed and direction.
+	2.	Direction Control:
+	•	It allows setting the x and y velocity to control movement.
+	3.	Sprites Interaction:
+	•	Projectiles can interact with other game sprites, enabling collision detection and triggering events like explosions or scoring points.
+	4.	Events Handling:
+	•	Supports events like on overlap for defining what happens when the projectile hits another object.
+
+Example:
+
+let projectile = sprites.createProjectileFromSprite(img`
+    . . 2 2 . .
+    . 2 2 2 2 .
+    . 2 2 2 2 .
+    . . 2 2 . .
+`, playerSprite, 50, 0)
+
+	•	This code creates a blue projectile (represented by 2) that moves horizontally from the player’s sprite with a speed of 50 pixels per second.
+
+Uses in Games:
+	•	Shooting mechanics (e.g., a spaceship firing lasers).
+	•	Throwing objects like spears or balls.
+	•	Simulating arrows or missiles in a combat or platformer game.
+
+Let me know if you’d like an example project or need help customizing it!
+
+## why are they called projectile blocks?
+
+It’s called a projectile block because it is used to create and control projectiles—objects that are launched or propelled through space, just like in physics or real-world scenarios.
+
+In programming and gaming terms, a projectile typically refers to an object that:
+	•	Moves in a specific direction (e.g., bullets, arrows, or rockets).
+	•	Travels at a set speed until it either hits something or leaves the screen.
+
+The word “projectile” comes from physics, where it describes any object that is thrown or launched and moves under the influence of forces like gravity. In MakeCode Arcade, the projectile block is modeled on this idea, allowing you to create game objects that mimic this behavior.
+
+For example:
+	•	A laser beam shot from a spaceship.
+	•	A soccer ball kicked towards a goal.
+	•	A fireball launched by a character in a fantasy game.
+
+The name emphasizes that the block is specifically designed for coding moving objects that act like real-world projectiles, making it easier to add action-packed features to games.
