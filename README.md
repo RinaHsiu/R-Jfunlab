@@ -529,6 +529,31 @@ our team members are me and my dad jason
 - try finish the monkey game
 - more khanacademy
 
+---
+
+## 10/Jan/2025 16th Day:
+
+### what we learned today?
+- **catroller**
+  - moving-monkey
+  - level 2
+  - finished monkey game
+- **khanacademy**
+  - chained conditionals
+
+### what are my feelings
+- tired
+- excited for movie
+- happy cause we finished monkey game
+- happy cause i got **5** stickers
+
+### next actions
+- start a new game on catroller
+- lesson 5 khanacademy
+
+---
+
+
 ## ?/jan/2025 9th Day:
 
 ### what we learned today?
