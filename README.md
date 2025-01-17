@@ -554,6 +554,40 @@ our team members are me and my dad jason
 ---
 
 
+## 17/jan/2025 17th Day:
+
+### what we learned today?
+- **Catroller**
+  - new toolbox Block used
+  - scroller
+  - Game
+  - started a new game
+  - save the galaxy
+- ** Khan Academy**
+  - lesson five completed
+  - build, test, refine
+  - made longest program yet 
+
+### what are my feelings
+- tired
+- want to watch movie
+- happy because new stickers arrived
+- I got **seven** awards
+- excited for movie
+- thirsty
+- hungry
+
+### next actions
+- finish save the galaxy
+- start you game
+- finish unit two
+- start unit three 
+
+
+---
+
+
+
 ## ?/jan/2025 9th Day:
 
 ### what we learned today?
