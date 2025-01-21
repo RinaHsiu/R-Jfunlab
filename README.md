@@ -588,6 +588,43 @@ our team members are me and my dad jason
 
 
 
+## 21/jan/2025 18th Day:
+
+### what we learned today?
+- **catroller**
+  - finished save the galaxy game
+  - started a new game
+  - 80s rockstars maze
+- **khanacademy**
+  - started unit three
+  - **while**
+     - while is used to create loops that repeat as long as the condition is true
+  - **modules**
+     - also referred to as the libraries or packages
+     - e.g. the toolboxes on catroller and the blocks inside are all created by other coders beforehand
+     - it is a file of organised into a set of functions in
+     - e.g. photo_editing.apply_filter("winter" , photo)
+     - sprites.on_overlap(^^^^^^^^^^^^^^)
+  - **import**
+     - used to store modules into the computer's memory
+     - it is used before the module name
+     - e.g. importphoto_ editing
+       
+
+### what are my feelings
+- tired
+- sleepy
+- happy because I got four stickers
+- happy because Python the snake was with us the whole time
+- happy because I learned new things
+  
+### next actions
+- do more of the 80s rockstar maze
+- khanacademy unit three
+
+---
+
+
 ## ?/jan/2025 9th Day:
 
 ### what we learned today?
