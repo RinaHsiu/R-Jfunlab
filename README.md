@@ -625,6 +625,36 @@ our team members are me and my dad jason
 ---
 
 
+## 25/jan/2025 19th Day:
+
+### what we learned today?
+- **catroller**
+  - finished 80s rockstar maze
+-**khanacademy**
+  - Random modules
+    - the random module provides a set of functions for generating pseudo random numbers
+  - pseudo random numbers
+    - pseudo means fake pseudo random numbers aren't truly random
+  - randint
+    - returned a random integer between start and stop inclusive
+    - e.g.  Random.randint(1,2) = one of 1 or 2
+    - random.randint(50, 53) = one of 50, 51, 52 or 53
+    - random.randint(-1, 1) = one of -1, 0 or 1
+      
+
+### what are my feelings
+- happy cause next time would be our 20th lesson
+- a little bit tired
+- thirsty
+- a little bit hungry
+- cause I got some stickers
+- happy cause I got the penguin I've never gotten them before
+  
+### next actions
+- start a new program in controller
+- Academy unit three finish lesson one
+
+
 ## ?/jan/2025 9th Day:
 
 ### what we learned today?
@@ -633,3 +663,4 @@ our team members are me and my dad jason
 ### what are my feelings
 
 ### next actions
+
