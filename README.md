@@ -654,6 +654,55 @@ our team members are me and my dad jason
 - start a new program in controller
 - Academy unit three finish lesson one
 
+---
+
+## 31/jan/2025 20th Day:
+
+### what we learned today?
+- **khanacademy**
+  - Unit 3, lesson 1, Challenge, Avatar generator
+    - **Functions**
+      - a function is like a mini-program inside your program.
+      - it's a block of code designed to do a specific task.
+      - it's like a recipe: you need to give it ingredients(inputs), it follows the steps(code), and the it created a yummy dish(output)!
+      - Functions organise codes and makes it reusable and keeps things tidy.
+      - you must have def in front of each function
+    - **Define**
+      - General meaning
+        - give a definition for the meaning of a word
+        - determine th essential quality of
+      - coding
+        - it's used to tell the computer, "Hey, I'm about to define a function!"
+        - when we use def, we're signaling the start of a function definition
+        - it helps the computer understand that what follows is the name of the function, any parameter it might take, and the block of code the makes up the function.
+    - **Parameters**
+      - they are like the special ingredients in a function
+      - when you define a function,you can specify parameters unside the parentheses(brackest)
+      - these parameters act like place holders for the actual values(called arguments) that you'll provide when you call the function
+      - this way, the function can perform it's task using the different unputs each time
+      - there could be as many parameters as needed with the minimun amout at 0
+      - for example, if you have a function to make a sandwich, a parameter could be the type of bread you want
+      - you could choose the type when you call the function so it will make the sandwich with your prefered type of bread
+    - **DRY**
+      - **D**on't
+      - **R**epeat
+      - **Y**ourself    
+    - **def play_piano(time):**
+
+### what are my feelings
+- tired
+- brain about to explode
+- confused
+- hungry for baobun
+- sleepy but dont wan to go to bed
+- happy cause there are new new sticker again!
+- that's it what do you expect
+
+### next actions
+- try not to explode brain
+- understand challenge
+
+---
 
 ## ?/jan/2025 9th Day:
 
@@ -663,4 +712,3 @@ our team members are me and my dad jason
 ### what are my feelings
 
 ### next actions
-
