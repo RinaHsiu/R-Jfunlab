@@ -704,7 +704,36 @@ our team members are me and my dad jason
 
 ---
 
-## ?/jan/2025 9th Day:
+## 1/Feb/2025 21st Day:
+
+### what we learned today?
+- **ebook**
+  - what functions are and actually understanding them
+  - what functions, parameters and call is in chinese
+- **khanacademy**
+  - challenge finished
+  - while
+  - loops
+  - *intialise*
+    - means to set a starting value for a variable before using it in a program
+    - in the context of a while loop, it's important to inialize the loop variable so the loop can function correctly
+    - if you don't, it will go on forever
+  - *infinite loop*
+    - when a loop never ends
+  - start, stop, update
+    
+### what are my feelings
+- tired
+- happy cuase of stickes
+- brain already exploded
+- not wanting to aswer dad's annoying questions
+  
+### next actions
+- find something to do other that khanacademy
+- more khanacademy
+---
+
+## ?/Feb/2025 22nd Day:
 
 ### what we learned today?
 
