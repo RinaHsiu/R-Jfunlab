@@ -733,6 +733,34 @@ our team members are me and my dad jason
 - more khanacademy
 ---
 
+## 02/Feb/2025 22nd Day:
+
+### what we learned today?
+- **khanacademy**
+  - Iteration
+    - iteration means doing something over again
+    - in loops, it's each time the loop runs
+  - += operator
+    - the += operator adds a number to a variable and then updates the variable with the new value
+    - it's a shortcut
+    - this same way can be used for minus, multiply and divide by using -=, *= and /=
+  - challenge
+    - used the while operator for the first time 
+
+### what are my feelings
+- tired
+- thirsty
+- need the toilet
+- don't want to go to bed
+- happy cause i got 1 sticker
+  
+### next actions
+- finish the dice challenge
+- do a bit more books
+- more khanacademy
+  
+---
+
 ## ?/Feb/2025 22nd Day:
 
 ### what we learned today?
