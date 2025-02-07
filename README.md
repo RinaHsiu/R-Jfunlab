@@ -761,6 +761,39 @@ our team members are me and my dad jason
   
 ---
 
+## 7/Feb/2025 23rd Day:
+
+### what we learned today?
+- **khanacademy**
+  - chalenge done!
+  - for loops
+    - a for loop is like a while loop but simplified to make things quicker
+    - instead of having to write the variable outside of the loop, you just need to write it between the **for** and the **it**
+    - all for loops can be while loops but not all while loops can be for loops
+    - e.g
+      - pattern = 0
+        while pattern < 5:
+          print("hi")
+          print("hi")
+          pattern = pattern+1
+      - for pattern in range(5):
+          print("hi")
+          print("hi")
+        
+
+### what are my feelings
+- tired but dont want to go to bed
+- thirsty
+- have a headache but not from this sesson
+- a bit sad cuase i only got **2** stickers today
+- happy cause mum's back!!!!!!!!!!!!!!!!!!!!!!!!!!
+  
+### next actions
+- more khanacademy
+- job for dad: find something similar to catroller but a bit more challenging for next time
+
+---
+
 ## ?/Feb/2025 22nd Day:
 
 ### what we learned today?
