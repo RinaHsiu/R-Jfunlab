@@ -792,7 +792,45 @@ our team members are me and my dad jason
 - more khanacademy
 - job for dad: find something similar to catroller but a bit more challenging for next time
 
+
 ---
+
+
+
+## 09/Feb/2025 24th Day:
+
+### what we learned today?
+- **Khanacademy**
+  - range(start, stop, step)
+    - the range function helps you create a sequence of numbers using start, stop, step.
+    - stop is when the for loop starts
+    - start is the number the sequence starts at
+    - step is how much the sequence increases
+    - if you only put one thing in the parenthesis, the computer will count it as stop
+  - Q:is there any for loops without using range or list?
+  - A: yes, there are many for loops using different things like; **strings , tuples, dictionaries, sets and files** but we will learn about those later
+  - inclusive & exclusive
+    - in range, the start is inclusive, meaning it's included in the sequence and the stop is exclusive, meaning it's not included in the sequence.
+    - range(1,5) will show as 1, 2, 3, 4.
+    - you will notice that there is not 5.
+    - this is because 5 is the stop and the stop is exclusive
+    - if we wanted to include the 5 in our sequence, we would have to write rang(1,6)
+
+### what are my feelings
+- tired
+- ready to go to bed
+- nervous for physics test tomorrow
+- happy because i got stickers!!!!!!!! :)
+- still waiting impatiantly for dad to find something like catroller or bitty but a bit more challenging
+  
+### next actions
+- do the challenge on khanacademy
+- hopefully be able to do the new thingthat dad will find by next week
+- more khanacademy
+
+---
+
+
 
 ## ?/Feb/2025 22nd Day:
 
