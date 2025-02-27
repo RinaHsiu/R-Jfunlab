@@ -831,8 +831,42 @@ our team members are me and my dad jason
 ---
 
 
+## 24&27/Feb/2025 25th Day:
 
-## ?/Feb/2025 22nd Day:
+### what we learned today?
+- **khanacademy**
+- min(hfaksjhfkdjshfkasjdhfkasjdhfkjdsfh)
+  - in python, min is used to choose the smaller number of a group of numbers given.
+  - for example
+  - min(3,1,4) would return 1 as it is the smallest one out of the numbers
+- max(hfoahskjfhaksjfhkajshf)
+  - in python, max is the opposite of min.
+  - instead of choosinf the smallest number of a group of numbers, it would choose the greatest.
+  - for example
+  - max(3,1,4) would return 4 and it is the greatest one out of the numbers
+- challenge
+- restaurant of alisha!!!!
+- super annoying
+
+### what are my feelings
+- mad at alisha for not doing her own work!!!!!!!
+- why should i do all her work for her!!??
+- no fair!?!
+- tired after school
+- need sleep
+- happy cause i got 5 stickers
+- yummy rice!!!!!
+- happy cause i can type without looking at my hand!!!
+
+### next actions
+- khanacademy
+- the new thing that i have ask dad for a month now to find.
+- so yeah
+- byeeeeeeeeeeeeeeeeeeeeeeee
+
+---
+
+## ?/Feb/2025 26th Day:
 
 ### what we learned today?
 
