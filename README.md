@@ -866,7 +866,49 @@ our team members are me and my dad jason
 
 ---
 
-## ?/Feb/2025 26th Day:
+## 1/Mar/2025 26th Day:
+
+### what we learned today?
+- **Khanacademy**
+  - compound loops
+  - loop conditions with and
+    - a loop with the and  operator only repeats while both conditions are True
+    - it will terminate if at least one condition is False
+    - e.g
+      - while rina == happy and dad == happy:
+      - in this loop, it will only excute when both cases are true
+      - p.s
+        - i know that this is not a proper code but it helps me understand better
+  - loop conditions with or
+    - a loop with the or operator will repeat if at least one of the conditions evaluates to True regardless of what the other condition is
+    - for the loop to terminate, both of the conditions must evaluate to False
+    - e.g
+      - while rina == happy of dad == happy:
+      - this loop will only stop if both rina and dad are not happy
+  - break
+    - when you put a break in, it jumps straight to the next line of code outside of the loop
+  - continue
+    - when you put a continue in, it jumps straight back to the start of the loop
+
+### what are my feelings
+- really tired because ive had a super long day
+- sleepy(i can hardly keep my eyelids from shutting)
+- happy cause i learn new things
+- the new things also gave me a headache
+- happy cause i got 2 stickers
+- also a bit sad cause i only got 2 stickers
+- they are both poo shaped
+- thats it
+- oh
+- sad cause **DAD STILL HASN'T FOUND SOMETHING OTHER THAN KHANACEMY TO DO!!!!!!!**
+
+### next actions
+- find something to do!!!!
+- khanacademy challenge
+
+---
+
+## ?/Mar/2025 th Day:
 
 ### what we learned today?
 
