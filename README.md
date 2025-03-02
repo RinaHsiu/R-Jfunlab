@@ -921,7 +921,7 @@ our team members are me and my dad jason
 - challenge: chicken virus infection
 
 ### what are my feelings
-- sad cause # SOMEONE STILL HAVN'T FOUND SOMETHING ELSE TO DO OTHER THAN KHANACADEMY!!!!!!!!!!!
+- sad cause **SOMEONE STILL HAVN'T FOUND SOMETHING ELSE TO DO OTHER THAN KHANACADEMY!!!!!!!!!!!**
 - happy cause i finished lesson four!!!!!!
 - i got 3 stickers
 - tired
@@ -929,5 +929,5 @@ our team members are me and my dad jason
 - hjjdkfjfdksgbkslidklusidhsldghsfd
 
 ### next actions
-- #SOMEONE NEEDS TO FIND SOMETHING ELSE OTHER THAN KHANACADEMY!!!!!!
+- **SOMEONE NEEDS TO FIND SOMETHING ELSE OTHER THAN KHANACADEMY!!!!!!**
 - more khanacademy
