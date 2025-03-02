@@ -908,11 +908,26 @@ our team members are me and my dad jason
 
 ---
 
-## ?/Mar/2025 th Day:
+## 2/Mar/2025 27th Day:
 
 ### what we learned today?
-
+- **khanacadwmy**
+- loops code review
+- rules
+- Name loop variables descriptively
+- Use meaningful loop conditions
+- Skip unnecessary work
+- Avoid deep nesting
+- challenge: chicken virus infection
 
 ### what are my feelings
+- sad cause # SOMEONE STILL HAVN'T FOUND SOMETHING ELSE TO DO OTHER THAN KHANACADEMY!!!!!!!!!!!
+- happy cause i finished lesson four!!!!!!
+- i got 3 stickers
+- tired
+- schoo 2morow. sad
+- hjjdkfjfdksgbkslidklusidhsldghsfd
 
 ### next actions
+- #SOMEONE NEEDS TO FIND SOMETHING ELSE OTHER THAN KHANACADEMY!!!!!!
+- more khanacademy
