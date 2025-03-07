@@ -931,3 +931,43 @@ our team members are me and my dad jason
 ### next actions
 - **SOMEONE NEEDS TO FIND SOMETHING ELSE OTHER THAN KHANACADEMY!!!!!!**
 - more khanacademy
+
+---
+
+## 7/Mar/2025 28th day:
+
+### what we learned today?
+- **catroller**
+  - dad finally found sonething to do!!!!
+  - tryed playing some of the games
+  - fun!!!
+- **khanacademy**
+  - project
+    - neebler population
+  - print(f)
+    - you can create a formatted string by placing f before the quotations using {} to include variables!!!!!!
+    - e.g
+    - name = "rina"
+    - print(f"Hello, {name}!")
+    - this will print
+    - Hello, Rina
+      
+### what are my feelings
+- tired
+- what to watch a movieeeee
+- unit four
+- happy happy happy
+
+### next actions
+- new game
+- khanacademy unit 4444444444
+
+---
+
+## 7/Mar/2025 28th day:
+
+### what we learned today?
+
+### what are my feelings
+
+### next actions
