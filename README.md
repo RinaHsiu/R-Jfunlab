@@ -964,6 +964,34 @@ our team members are me and my dad jason
 
 ---
 
+## 9/Mar/2025 29th day:
+
+### what we learned today?
+- UNIT FOUR!!!!!
+- **khanacademy**
+  - Modularity
+    - break down the problem
+  - return
+    - this is used at the end of a function
+  - docstring
+    - this line goes under the function header.
+    - it tells you what the functin does
+    - it is surrounded by three """s
+    - Carefull, do not use a #
+  - created my first ever function!!!!!
+  - create my first every module!!!!!
+
+### what are my feelings
+- very proud of myself!!!
+- happy cause i earned **6** stickers
+- happy cause dinner smells really good and cause we ae having guests over 2day!!!!
+
+### next actions
+- more khanacademy
+- explore the new catroller game!!!
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
