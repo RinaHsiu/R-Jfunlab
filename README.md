@@ -992,6 +992,31 @@ our team members are me and my dad jason
 
 ---
 
+## 13/Mar/2025 30th day:
+
+### what we learned today?
+- **khanacademy**
+  - video
+    - breaking dowm what happens ina function
+  - Global scope
+    - The main short term memory
+    - Can be accessed anywhere in the program
+  - Local scope
+    - Is inside the Global scope but can creat new variables with the same names that will dissapear with the Local scope after use
+  - challenge
+    - very easy
+
+### what are my feelings
+- tired
+- happy cause i got **4 stickers**
+- thats it. what more do you expect?
+- why are you still reading? i told you that there is no more!
+### next actions
+- Khanacademy
+- Catroller
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
