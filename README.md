@@ -1017,6 +1017,31 @@ our team members are me and my dad jason
   
 ---
 
+## 16/Mar/2025 31st day:
+
+### what we learned today?
+- **khanacademy**
+- multiple return statements
+  - it will only do one and ignore the rest of the code
+- void function
+  - a function without a return value
+- self-documenting
+  - when a  name of a funtion is so good that you don't need comments
+- nested functions
+  - a function called from inside another function
+  - is used to be easier to read and check and to be reused
+     
+### what are my feelings
+- need to pee
+- sad cause i only got 2 stickers
+- just happy for no reason
+
+### next actions
+- catroller
+- more khanacademy
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
