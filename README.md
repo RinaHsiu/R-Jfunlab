@@ -1042,6 +1042,34 @@ our team members are me and my dad jason
 
 ---
 
+## 23/Mar/2025 32nd day:
+
+### what we learned today?
+- **Khanacademy**
+  - \n
+    - to output things on a different line
+  - suit
+    - the symbols on a pack of cards
+    - e.g. hearts, spades, dimonds, clubs
+  - rank
+    - the numbers on a pack of cards
+    - e.g. 2, 3, 7, Jack, Queen, King, Ace
+  - challenge
+    - really dumb task that i got right but it is just dumb! :)
+    - khanmingo is a bit dumb
+    - next time if something like this happens, break it down instead of jumping to the end because the levels might be step by step and stand on Kim's point of view and think about why she would make up the challenge and what she would want us to learn from it.
+      
+### what are my feelings
+- tired
+- annoyed
+- happy cause i got a **BIG** sticker
+  
+### next actions
+- Catroller
+- Khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
