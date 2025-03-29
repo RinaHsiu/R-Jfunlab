@@ -1070,6 +1070,35 @@ our team members are me and my dad jason
   
 ---
 
+## 29/Mar/2025 33rd day:
+
+### what we learned today?
+- **Khanacademy**
+  - Modules
+    - Entry point/main logic
+      - the module that the computer goes to exacute/main.py
+    - File extention
+      - what goes after the.
+      - e.g. .py, .com, .co.uk
+    - How to name modules
+      - name modules in nouns
+      - formatted in snake_case
+      - names should describe what the module does
+    - function organisation
+      - place the more important functions at the top of the module
+    - challange: rock, paper, scissors shoot
+  
+### what are my feelings
+- tired
+- hungry
+- happy cause i got **5** stickers
+
+### next actions
+- finish challenge
+- catroller
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
