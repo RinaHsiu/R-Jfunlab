@@ -1099,6 +1099,33 @@ our team members are me and my dad jason
   
 ---
 
+## 30/Mar/2025 34th day:
+
+### what we learned today?
+- **Khanacademy**
+  - challenge finished
+   - made a long piece of code shorter
+  - Dictionary
+    - a pair of words
+    - one is a key
+    - one is a value
+    - e.g. Rina🥇: me, jason🥈: dad, Emma🥈: mum
+  - unit testing
+    - when you check your code after each little bit
+    - so that you wont have a load of bugs after
+
+### what are my feelings
+- hungry
+- tiredish
+- haapy cause i got **4** stickers
+  
+### next actions
+- prepare stuff
+- challenge
+- catroller!!~!!!!!
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
