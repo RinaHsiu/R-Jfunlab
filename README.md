@@ -1126,6 +1126,25 @@ our team members are me and my dad jason
 
 ---
 
+## 4/April/2025 35th day:
+
+### what we learned today?
+- how to use the microphone to record the session
+- **khanacademy**
+  - challenge
+    - physics engine
+    - step 1
+      
+### what are my feelings
+- tired
+- sleepy
+- sad
+  
+### next actions
+- finish challenge
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
