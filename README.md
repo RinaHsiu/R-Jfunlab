@@ -1145,6 +1145,34 @@ our team members are me and my dad jason
   
 ---
 
+## 25/April/2025 28th day:
+
+### what we learned today?
+- Revision:
+  - looked over day 3 - 10
+- **Khanacademy**
+  - Challenege = done = annoying
+  - Lists
+    - a list in computing is a collection of items stored in a specific order.
+    - lists can hold various data types, like numbers and strings.
+    - they are useful for organising and managing data.
+    - E.G
+    - shopping_list = ["milk", "Eggs", "Flour", "Bread“, 2, "pens"]
+    - print(shopping_list[3])
+    - shoppin_list[4] = "🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐🥐"
+    
+### what are my feelings
+- tired
+- brain = dead
+- fdhjgfalsdkgfsgfddvhffgadhbuiadsgfiadksgfsadkgf
+- happy
+- annoyed
+  
+### next actions
+- khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
