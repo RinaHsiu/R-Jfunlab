@@ -1,4 +1,4 @@
-# R-Jfunlab
+ # R-Jfunlab
 
 ## Objectives
 in this repository, we will start a new journey of coding and fun! there are 3 objectives; 
@@ -1167,6 +1167,28 @@ our team members are me and my dad jason
 - fdhjgfalsdkgfsgfddvhffgadhbuiadsgfiadksgfsadkgf
 - happy
 - annoyed
+  
+### next actions
+- khanacademy
+  
+---
+
+## 10/May/2025 36th day:
+
+### what we learned today?
+- **Khanacademy**
+  - lists
+    - Slices
+      - a slice copies the portion of a list between a start and stop index
+      - [1:4], start inclusive, end exclusive.
+      - [ :3], from start to 3
+      - [3: ], from 3 to end
+      - remember to write the list name before
+        
+### what are my feelings
+- sleepy
+- tired
+- yeah
   
 ### next actions
 - khanacademy
