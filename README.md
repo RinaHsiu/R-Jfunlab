@@ -1195,6 +1195,32 @@ our team members are me and my dad jason
   
 ---
 
+## 25/May/2025 37th day:
+
+### what we learned today?
+- **Khanacademy**
+  - Challenge
+  - append()
+    - is used to add 1 thing to the end of a list
+    - e.g. bases.append("1")
+    - this would add 1 to the end of the list bases
+   - extend()
+     - its used to add one or more things to the end of a list
+     - e.g. bases.extend(["1", "2", "3", "4"])
+     - this would add 1,2,3 and 4 to the end of the list bases
+    - random.choice()
+      - is used to pick a random thing from a sequance
+      - e.g base = random.choice(base)
+      - this would chose something from the list base
+        
+### what are my feelings
+- tired
+  
+### next actions
+- khanacdemy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
