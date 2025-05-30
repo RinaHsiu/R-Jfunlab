@@ -1221,6 +1221,41 @@ our team members are me and my dad jason
   
 ---
 
+## 30/May/2025 38th day:
+
+### what we learned today?
+- **Khanacademy**
+  - List iteration
+    - convention
+      - convention is a common habit or rule that programers agree to follow, even though the computer doesn't require it.
+      - it helps everyone read and understand code more easily
+      - for example
+        - index => i
+    - for each loops
+      - symbols = [1, 2, 3, 4]
+      - for symbol in symbols:
+         print(symbol)
+    - for loops
+      - symbols = [1, 2, 3, 4]
+      - for i in range(len(symbols)):
+         print(symbols[i])
+    - in operator
+      - the in operator checks if a value is inside a list
+      - if it is, it will evaluate to true, if not the false
+      - e.g "september" in birthdays
+        
+### what are my feelings
+- tired
+- hungry
+- happy
+- thirsty
+  
+### next actions
+- Finish article
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
