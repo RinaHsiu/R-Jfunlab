@@ -1256,6 +1256,36 @@ our team members are me and my dad jason
   
 ---
 
+## 1/June/2025 39th day:
+
+### what we learned today?
+- **Khanacademy**
+  - finished artical
+  - video
+  - reviewed break, continue and the difference between arguments and parameters
+  - continue
+    - when you put continue in, it jumps straight to the start of the loop
+  - break
+    - when you put break in, it jumps to the next line of code outsid o the loop
+  - arguments
+    - an argument is the actual value you put
+  - parameters
+    - a parameter is a word to put in before an argument is given
+    - its abit like a place holder
+   
+### what are my feelings
+- headache
+- hungry
+- sleepy
+- happy
+- tired
+  
+### next actions
+- finish the challenge
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
