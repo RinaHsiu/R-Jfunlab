@@ -1286,6 +1286,27 @@ our team members are me and my dad jason
   
 ---
 
+## 3/june/2025 40th day:
+
+### what we learned today?
+- **Khanacadmey**
+  - Finished challenge
+    - Old Henry's Old Heart(that's my name for it)
+    - did alot of it by me self
+  - enumerate()
+    - enumerate is a built-in function that lets youloop through a list and get BOTH the index AND the value at the same time
+      
+### what are my feelings
+- tired
+- thirsty
+- hungry
+- happy cuase i got 4 stickers
+  
+### next actions
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
