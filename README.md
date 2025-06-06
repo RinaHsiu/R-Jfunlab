@@ -1307,6 +1307,64 @@ our team members are me and my dad jason
   
 ---
 
+## 6/June/2025 41st day:
+
+### what we learned today?
+- **Khanacademy**
+  - strings as lists
+    - Immutable
+      - immutable means it cannot be changed
+      - so once you make a string, you can't change it's letters
+      - if you want a new string, you have to make a whole new one
+    - canonical form
+      - canonical form means changing a string to a standard way so it's easy to compare
+    - parsing
+      - parsing means to breack down a string to small parts to get useful data
+    - dot syntax
+      - dot syntax means calling a method derictly on an object using a dot
+      - e.g. "hello".upper()
+    - **Methods**
+      - lower()
+        - the lower method returns a new string where all the letters are converted to lower case
+      - upper()
+        - the upper method returns a new string where all the letters are converted to upper case
+      - strip()
+        - the strip method removes any leadinf or trailing characters from a string
+        - it is usualy whitespaces by defalt
+        - however, it does not take away everthing
+      - CSV
+        - it stands for: comma-seperated values
+        - it's a file format where each line represents a row of data, and each value in the row is separated by a comma
+      - split()
+        - the split method divides a string into a list of substrings base on a separator
+      - join()
+        - the join method is the opposite of the split method
+        - the join method combines a list of strings into a single string inserting a seperater between each element
+      - count()
+        - the count method tells you how many times a certain character or word appear ina string
+      - index()
+        - the index method is where a character or word first show up in a string
+      - isdigit()
+        - the isdigit method checks if all the characters in a string are numbers
+        - if they are, it gives True, if not, then false
+
+### what are my feelings
+- tired
+- happy becasue i got **10** stickers
+- sleepy
+- hungry
+- thirsty
+- tired
+- tired
+- sleepy
+- hungry
+- thirsty
+
+### next actions
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
