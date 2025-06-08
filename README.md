@@ -1365,6 +1365,32 @@ our team members are me and my dad jason
   
 ---
 
+## 8/june/2025 42nd day:
+
+### what we learned today?
+- **Khanacademy**
+  - escape sequances
+    - "she said, \"look! I'm escaping these quotes!\""
+  - multiline strings
+    - we can use triple quotes (""") to make multilined strings
+    - e.g.
+    - family = """ In my family there are
+      me, "Rina"
+      mum, "Emma"
+      dad, "Jason"
+      """
+   - finished challenge, reading level
+     
+### what are my feelings
+- tired
+- happy
+- thirsty
+  
+### next actions
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
