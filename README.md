@@ -1391,6 +1391,36 @@ our team members are me and my dad jason
   
 ---
 
+## 17/june/2025 43rd day:
+
+### what we learned today?
+- **Khanacademy**
+  - List methods
+    - .insert() method
+      - the .insert() method add an element at a specific index. the first argument is the index and the second argument is the element
+      - e.g. months.insert(2, "march")
+    - .pop() method
+      - the .pop() method takes away the last element of a list
+      - deleted_element = months.pop()
+      - unlike the previous list methods, pop returns the value
+      - if you want to delete a specific index => pop(1)
+    - .remove() method
+      - the remove method deletes the first element that matches a specific value
+      - e,g, months.remove("Feb")
+      - if multiple values match, it deletes the first one.
+      - if there are none, then it is a ValueError.
+      - it does not return a value
+        
+### what are my feelings
+- tired
+- happy
+- thristy
+  
+### next actions
+- more khanacdemy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
