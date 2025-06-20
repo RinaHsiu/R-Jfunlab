@@ -1421,6 +1421,24 @@ our team members are me and my dad jason
   
 ---
 
+## 20/june/2025 44th day:
+
+### what we learned today?
+- **Khanacademy**
+  - challenge
+  - not in
+    - in python, not in is a GREAT way of checking if something is inside a collection(list ir string)
+      
+### what are my feelings
+- tired
+- thristy
+- sleepy but doesn't want to go to bed
+  
+### next actions
+- more khanacademy
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
