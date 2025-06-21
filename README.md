@@ -1439,6 +1439,32 @@ our team members are me and my dad jason
 
 ---
 
+## 21/June/2025 44th day:
+
+### what we learned today?
+- **Khanacdemy**
+  - project
+  - finished
+  - codes
+  - ceaser code
+  - encrypt
+    - writing a code
+    - changing things into code
+  - decrypt
+    - changing code back to readable message
+      
+### what are my feelings
+- tired
+- tired
+- thirsty
+  
+### next actions
+- look for more thing to do on the project
+- algorithum
+- more khanacademy
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
