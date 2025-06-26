@@ -1465,6 +1465,29 @@ our team members are me and my dad jason
 
 ---
 
+## 26/june/2025 46th day:
+
+### what we learned today?
+- **Khanacdemy**
+  - UNIT 666666666666666665
+  - Dictionaries
+    - a dictionary is a dataset that is a pair of value and key
+    - the key is used to call it and it must be unique so that it won't be muddled
+    - the value however can be the same
+  - challenge
+    - login please
+      
+### what are my feelings
+- tired
+- thirsty
+- sleepy
+  
+### next actions
+- unit 6666666 lesson 2
+- yeah
+
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
