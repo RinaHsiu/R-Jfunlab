@@ -1488,6 +1488,55 @@ our team members are me and my dad jason
 
 ---
 
+## 29/june/2025 47th day:
+
+### what we learned today?
+- **Khanacademy**
+  - dictionary methods
+    - dictionaries also use dot syntax
+    - .get() method
+      - the .get() mehod retrieves the value of the key you put.
+      - if that key doesn't exist, it will return none
+      - however, we can specify a different default value by passing in a second value
+      - e.g. font_sizes = settings.get("coulor", "black")
+      - this will return "black" as there isn't a key called colour in our dictionary
+    - .pop() method
+      - the .pop() method deletes the item associated with a specific key and returns its value
+      - if no key matches, we get a key error
+      - to prevent this, we can specify a default value to return
+      - e.g. line_spacing = settings.pop("spacing", 1)
+      - our dictionary doesn't have the key "spacing" so it returns the specified value of 1
+    - .update() method
+      - the .update() method defines a strategy for merging dictionaries.
+      - if both deictionaries have and item with the same key, it uses the value from the second dictionary
+      - e.g. settings.update({"spacing":2, "style":"bold"})
+      - this updates the original dictionary settings in place
+      - since both dictionaries have the key "style", the value "bold" will replace the value "italic" becasue it is from the second dictionary
+    - dicitonary
+      - .value()
+      - .item()
+      - .key()
+    - BY KEY:
+      - for word in wotd_counts:
+            print(word)
+    - BY VALUE:
+      - for count in word_count.values:
+            print(count)
+    - BY ITEM
+      - for word, count in word_count,items():
+            print(word)
+            print(count)
+        
+### what are my feelings
+- tired
+- thirsty
+- happy
+
+### next actions
+- nore khanacadmey
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
