@@ -1542,6 +1542,9 @@ our team members are me and my dad jason
 ### what we learned today?
 - **Khanacademy**
   - Challenge
+  - crop rotation
+  - use multiple dictionaries
+  - use dictionaries in programs
     
 ### what are my feelings
 - tired
