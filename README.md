@@ -1533,7 +1533,25 @@ our team members are me and my dad jason
 - happy
 
 ### next actions
-- nore khanacadmey
+- more khanacadmey
+  
+---
+
+## 30/june/2025 48th day:
+
+### what we learned today?
+- **Khanacademy**
+  - Challenge
+    
+### what are my feelings
+- tired
+- sleepy
+- happy
+- thirsty
+- ye
+   
+### next actions
+- more khanacdemy
   
 ---
 
