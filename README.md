@@ -1558,6 +1558,27 @@ our team members are me and my dad jason
   
 ---
 
+## 1/july/2025 49th day:
+
+### what we learned today?
+- **Khanacademy**
+  - challenge
+    - ads
+  - lists can contain dictionaries too!!!!!
+    
+### what are my feelings
+- tired
+- thirsty
+- happy
+- ye
+  
+### next actions
+- more khanacademy
+- the other program and the article
+- no program!!!!!
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
