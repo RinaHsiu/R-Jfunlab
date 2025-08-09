@@ -1579,10 +1579,51 @@ our team members are me and my dad jason
   
 ---
 
+## 9/aug/2025 50th day:
+
+### what we learned today?
+- **Khanacademy**
+  - iterate over dictionaries recap         
+    - movies = {"little women", true, "Dune":True, "Spider man": false}
+
+    - movies.get("little women", True) => true      
+    - movies.get("Emma", False) => False           
+    - movies.get("Dune", True) => True  
+    - reminder:
+      - don't get the default value mixed up with the actual value
+
+  - APIs
+    - API stands for Application Programming Interface
+  - nested recap
+    - Gas_works = {
+          "name" : "Gas work park"
+          " adress" : "jfslkfjlkjaljfladsjflk"
+          "reviews" : [
+                   {
+                     "rating" : 5,
+                     " auther" : "Rina"
+                    }
+                      ]
+          }
+    print(gas_works["reviews"][0]["auther"]) => Rina
+         
+### what are my feelings
+- tired
+- dont want to go to car thing
+- ye
+
+### next actions
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
 
 ### what are my feelings
+
+### next actions
+
 
 ### next actions
