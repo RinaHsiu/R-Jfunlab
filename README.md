@@ -1617,6 +1617,52 @@ our team members are me and my dad jason
   
 ---
 
+## 14/Aug/2025 51st day:
+
+### what we learned today?
+- **Khanacademy**
+  - 2D lists
+    - board = ["x", " ", "o", "x", "o", ........]
+    - list
+    - WRONG
+    - board = [
+        ["x", " ", "o"],
+        ["x", "o", "x"],
+        ["x", "o", " "]
+      ]
+    - list of lists
+    - CORRECT
+    - 2D lists are mostly used for images.
+    - Digital images are made up of thousands of tiny squares called pixels which together form the image.
+    - its kind of like a mosaic.
+    - in grey scale images, each pixel is represented by an integer from 0-255.
+    - 0 = black
+    - 255 = white.
+    - DID U KNOW???
+      - white, balck and grey are not considered as colours but instead as shades.
+    - image = [
+        [0, 1]
+        [2, 3]
+        [4, 5]
+      ]
+    - for row in image:
+         for col in row:
+            print(col)
+    - thoughts
+      - an 1D lists is just a list
+      - a 2D list is a list of lists
+      - so would a 3D list be a list of list of lists???
+        
+### what are my feelings
+- happy
+- tired
+- ye
+  
+### next actions
+- more khanacademy
+  
+---
+
 ## 7/Mar/2025 28th day:
 
 ### what we learned today?
@@ -1624,6 +1670,5 @@ our team members are me and my dad jason
 ### what are my feelings
 
 ### next actions
-
 
 ### next actions
