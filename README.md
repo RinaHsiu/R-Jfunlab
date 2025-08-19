@@ -1689,13 +1689,18 @@ our team members are me and my dad jason
 - **Khanacademy**
   - finished challenge
     - music
-      
+### Notestaking and Mistake Journey
+ -https://www.bilibili.com/video/BV1GE411Q7Ew/?spm_id_from=333.337.search-card.all.click&vd_source=b3af2e6b4d86e100a716a4ffa0bc946b
+ -https://www.bilibili.com/video/BV1RhYqzaEUK/?spm_id_from=333.337.search-card.all.click&vd_source=b3af2e6b4d86e100a716a4ffa0bc946b
+ -https://www.bilibili.com/video/BV1YtM9zGErZ/?spm_id_from=333.337.search-card.all.click&vd_source=b3af2e6b4d86e100a716a4ffa0bc946b
+ -https://www.bilibili.com/video/BV1PT4y1o79X/?spm_id_from=333.337.search-card.all.click&vd_source=b3af2e6b4d86e100a716a4ffa0bc946b      
 ### what are my feelings
 - tired
 - happy
   
 ### next actions
 - more khanacademy
+- whach video on how to use highlighters 【【超简单】荧光笔N种用法！学会仿佛开挂！学生党必看 | 高效笔记技巧 | 逆袭学霸】 https://www.bilibili.com/video/BV1U3411b7h7/?share_source=copy_web&vd_source=11ee71f7ba6ea59b1465376621241435
 
 ---
 
