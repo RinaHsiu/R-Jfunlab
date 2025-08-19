@@ -1663,7 +1663,43 @@ our team members are me and my dad jason
   
 ---
 
-## 7/Mar/2025 28th day:
+## 17/Mar/2025 52nd day:
+
+### what we learned today?
+-**Khanacdemy**
+ - fun fact
+   - EMT
+   - stands for  Emergency Medical Technitian(the people in ambulances)
+ - data transformation
+   - transforms data from one form to another
+ - started challange
+
+### what are my feelings
+- tired
+- happy
+  
+### next actions
+- finish challenge
+  
+---
+
+## 19/Mar/2025 53rd day:
+
+### what we learned today?
+- **Khanacademy**
+  - finished challenge
+    - music
+      
+### what are my feelings
+- tired
+- happy
+  
+### next actions
+- more khanacademy
+
+---
+
+## 19/Mar/2025 53rd day:
 
 ### what we learned today?
 
@@ -1671,4 +1707,4 @@ our team members are me and my dad jason
 
 ### next actions
 
-### next actions
+
