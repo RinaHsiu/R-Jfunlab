@@ -1683,7 +1683,7 @@ our team members are me and my dad jason
   
 ---
 
-## 19/Mar/2025 53rd day:
+## 24/Aug/2025 53rd day:
 
 ### what we learned today?
 - **Khanacademy**
@@ -1702,6 +1702,41 @@ our team members are me and my dad jason
 - more khanacademy
 - whach video on how to use highlighters 【【超简单】荧光笔N种用法！学会仿佛开挂！学生党必看 | 高效笔记技巧 | 逆袭学霸】 https://www.bilibili.com/video/BV1U3411b7h7/?share_source=copy_web&vd_source=11ee71f7ba6ea59b1465376621241435
 
+---
+
+## 30/August/2025 54th day:
+
+### what we learned today?
+- **glossery 3**
+  - cases
+    - 1. folder name => PascalCase
+      2. save document => snake_case
+      3. titles => PascalCase
+      4. Browser Bookmarks => PascalCase
+  - bytes
+    - KB(kilobytes)
+      - tiny box.
+      - 1KB = 1024B
+    - MB(Megabyte)
+      - medium box
+      - 1MB = 1024KB
+    - GB(Gigabyte)
+      - big box
+      - 1GB = 1024MB
+    - TB(Terabyte)
+      - very big box
+      - 1TB = 1024GB
+    - PB(Perabyte)
+      - Massive warehouse!
+      - 1PB = 1024TB
+        
+### what are my feelings
+- tired
+- thirsty
+  
+### next actions
+- more reviewing
+  
 ---
 
 ## 19/Mar/2025 53rd day:
