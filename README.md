@@ -1739,12 +1739,40 @@ our team members are me and my dad jason
   
 ---
 
-## 19/Mar/2025 53rd day:
+## 31/Aug/2025 55th day:
+
+### what we learned today?
+- **Trello**
+  - looked over my new years resolutions and replied to them
+- **emails**
+  - icloud
+    - family
+    - friends
+    - DUOLINGO
+  - microsoft
+    - education
+    - school
+  - google
+    - tools
+    - social media
+
+### what are my feelings
+- happy
+- tired
+- excited cuase im getting my new calender from school TOMORROW!
+
+### next actions
+- make an academic calender
+  
+---
+
+## 19/Mar/2025 53th day:
 
 ### what we learned today?
 
 ### what are my feelings
 
 ### next actions
+
 
 
